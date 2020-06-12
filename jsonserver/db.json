@@ -1,0 +1,19 @@
+{
+  "blogposts": [
+    {
+      "id": 1,
+      "title": "API TEST POST IN JSON SERVER db.json",
+      "content": "SOME CONTENT"
+    },
+    {
+      "title": "Rhdhdvgggggggggggg",
+      "content": "Xvxbzvdddxccc",
+      "id": 3
+    },
+    {
+      "title": "Say",
+      "content": "Too",
+      "id": 4
+    }
+  ]
+}
